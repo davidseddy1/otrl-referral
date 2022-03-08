@@ -21,21 +21,12 @@ This project is built with nextJS using this [template](https://github.com/ixart
 - 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
 - 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
 - ⚙️ [Bundler Analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
-- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
-- 🌈 Include a FREE minimalist theme
-- 💯 Maximize lighthouse score
 
 Built-in feature from Next.js:
 
 - ☕ Minify HTML & CSS
 - 💨 Live reload
 - ✅ Cache busting
-
-## Philosophy
-
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
 
 ## Requirements
 
