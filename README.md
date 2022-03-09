@@ -8,7 +8,7 @@ This project is built with nextJS using this [template](https://github.com/ixart
 
 ## Features
 
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
+- 🔥 [Next.js](https://nextjs.org) with Server Side Rendering
 - 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
 - 💅 PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
 - 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
@@ -59,11 +59,11 @@ Open http://localhost:3000 with your favorite browser to see your project.
 │       └── images           # Image used by default template
 ├── src
 │   ├── layout               # Atomic layout components
-│   ├── pages                # Next JS pages
-          └── api            # Next JS api route (AWS λ Functions) 
 │   ├── styles               # PostCSS style folder with Tailwind
 │   ├── templates            # Default template
-│   └── utils                # Utility folder
+│   ├── utils                # Utility folder
+│   └── pages                # Next JS pages
+│         └── api            # Next JS api route (AWS λ Functions) 
 ├── tailwind.config.js       # Tailwind CSS configuration
 └── tsconfig.json            # TypeScript configuration
 ```
